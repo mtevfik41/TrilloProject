@@ -22,6 +22,8 @@
 
 ## About The Project
 
+- [Netlify](https://trillo-project-app.netlify.app/)
+
 Simple hotel booking landing page with HTML, CSS and Sass. Especially, I focused on how to use Flexbox.
 
 ### Built With
